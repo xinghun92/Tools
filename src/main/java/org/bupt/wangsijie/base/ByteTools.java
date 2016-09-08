@@ -1,4 +1,4 @@
-package org.bupt.wangsijie.BaseTool;
+package org.bupt.wangsijie.base;
 
 /**
  * 

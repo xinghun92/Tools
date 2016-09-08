@@ -6,7 +6,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
 
-import org.bupt.wangsijie.BaseTool.ByteTools;
+import org.bupt.wangsijie.base.ByteTools;
 import org.junit.Test;
 
 /**  
